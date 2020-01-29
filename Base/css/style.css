@@ -1,0 +1,14 @@
+i, .footer-widget-title{
+    color: white;
+}
+.rrss{
+    list-style: none;
+    
+}
+.rrss li{
+    padding-top: 1em;
+    padding-right: 1em;   
+}
+.menu-footer-1{
+    list-style: none;
+}
